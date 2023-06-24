@@ -1,5 +1,3 @@
 # Hello-World
-#Gitチュートリアル
-
--feature-A
+#Gitチュートリア
 
